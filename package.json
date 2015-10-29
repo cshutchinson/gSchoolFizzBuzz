@@ -1,0 +1,25 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fb.js",
+  "dependencies": {
+    "chai": "^3.4.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshutchinson/gSchoolFizzBuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshutchinson/gSchoolFizzBuzz/issues"
+  },
+  "homepage": "https://github.com/cshutchinson/gSchoolFizzBuzz#readme"
+}
